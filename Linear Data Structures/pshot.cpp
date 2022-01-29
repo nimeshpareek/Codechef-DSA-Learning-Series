@@ -16,7 +16,7 @@ while (t--)
     int position = 0;
     int life_a = x.size();
     int life_b = x.size();
-    
+    // hello there
     for (int i = 0; i < 2*n; i++)
     {
         if (i%2 == 0)
